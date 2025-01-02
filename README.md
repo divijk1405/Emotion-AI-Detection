@@ -1,4 +1,4 @@
-Project Overview
+Project Overview:
 Key Facial Points Detection is a machine learning project aimed at identifying specific facial features from images using convolutional neural networks (CNNs). The project involves creating a model to predict key points on facial images, which can be used for various applications such as emotion detection, face recognition, and augmented reality.
 
 Features:
